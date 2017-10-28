@@ -1,4 +1,4 @@
 print "Hello World To All"
-print "Hello Python"
+print "Hello Python!!"
 
-print "Good Night"
+print "Good Night people"
